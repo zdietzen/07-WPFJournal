@@ -1,0 +1,14 @@
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\bin\Debug\07-WPFJournal.exe.config
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal.csprojResolveAssemblyReference.cache
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\MainWindow.g.cs
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\App.g.cs
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal_MarkupCompile.cache
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal_MarkupCompile.lref
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\bin\Debug\07-WPFJournal.exe
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\bin\Debug\07-WPFJournal.pdb
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\MainWindow.baml
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal.g.resources
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\_07_WPFJournal.Properties.Resources.resources
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal.csproj.GenerateResource.Cache
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal.exe
+C:\Dev\Github\07-WPFJournal\07-WPFJournal\obj\Debug\07-WPFJournal.pdb
